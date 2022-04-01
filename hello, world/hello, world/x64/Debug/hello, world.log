@@ -1,0 +1,5 @@
+﻿  hello, world.cpp
+C:\Users\boussayed\Documents\C++(+)\hello, world\hello, world\hello, world.cpp(46,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\boussayed\Documents\C++(+)\hello, world\hello, world\hello, world.cpp(363,58): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\boussayed\Documents\C++(+)\hello, world\hello, world\hello, world.cpp(496): warning C4715: 'checkPassword' : les chemins de contrôle ne retournent pas tous une valeur
+  hello, world.vcxproj -> C:\Users\boussayed\Documents\C++(+)\hello, world\x64\Debug\hello, world.exe
